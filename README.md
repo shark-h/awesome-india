@@ -13,3 +13,4 @@ awesome list for all orgs in India taking part in Hacktoberfest'18
   - https://github.com/GVP-AI-Club/Hacktober-at-GVP
   - https://github.com/GVP-AI-Club/Python-for-DataScience
 - [IIIT-Delhi](https://github.com/IIIT-Delhi/byld-website)- Static Website for IIIT-Delhi's Software Dev Club Byld
+- [Zairza-CETB](https://github.com/zairza-cetb/hacktoberfest-2018)
